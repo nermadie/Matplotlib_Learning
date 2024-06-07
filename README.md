@@ -1,6 +1,6 @@
-# Numpy_Learning
+# Matplotlib_Learning
 
-This repository contains the code and notes for learning Numpy.
+This repository contains the code and notes for learning Matplotlib.
 
 ## Source:
 
